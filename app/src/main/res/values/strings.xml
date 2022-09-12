@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI-Elements</string>
+    <string name="marvel">Marvel</string>
+    <string name="dc">DC</string>
+    <string name="joker">Joker</string>
+    <string name="married">Married</string>
+    <string name="in_a_relationship">In a Relationship</string>
+    <string name="single">Single</string>
+</resources>
